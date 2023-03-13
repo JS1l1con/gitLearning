@@ -3,4 +3,5 @@ I am learning the git.
 
 ## testuju na local
 
-test
+
+# pridavam text na branch
